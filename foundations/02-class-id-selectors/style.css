@@ -1,0 +1,15 @@
+.no3{
+    background-color: rgb(226, 141, 198);
+    font-family: Verdana "DejaVu Sans" sans-serif;
+}
+#no2{
+    color: blue;
+    font-size: 36px;
+}
+.no3.N3, #no4{
+    font-size: 24px;
+}
+#no4{
+    background-color: rgb(136, 202, 136);
+    font-weight: bold;
+}
